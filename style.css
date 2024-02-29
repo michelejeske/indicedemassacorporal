@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color: #6e3838;
+    text-align: center;
+    padding: 3.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+    border-radius: 10px;
+}
+
+img{
+    width: 400px;
+    border-radius: 8px;
+}
+
+footer{
+    padding: 10px;
+}
